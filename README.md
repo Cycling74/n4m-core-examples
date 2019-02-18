@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="https://docs.cycling74.com/nodeformax/api/n4m-icon.png" width="200" height="200" alt="Node For Max">
+</p>
+
 # Node For Max Core Examples
 
 This repository contains the code examples for the Node For Max package, maintained by [@Cycling74](https://github.com/Cycling74). It's main purpose is to show basic techniques when using `Node For Max` and teach how to use the API.
