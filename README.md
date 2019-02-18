@@ -3,6 +3,7 @@
 </p>
 
 # Node For Max Core Examples
+[![Build Status](https://travis-ci.org/Cycling74/n4m-core-examples.svg?branch=master)](https://travis-ci.org/Cycling74/n4m-core-examples)
 
 This repository contains the code examples for the Node For Max package, maintained by [@Cycling74](https://github.com/Cycling74). It's main purpose is to show basic techniques when using `Node For Max` and teach how to use the API.
 
