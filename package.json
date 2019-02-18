@@ -4,7 +4,8 @@
 	"description": "A collection of core examples for Node for Max",
 	"scripts": {
 		"lint": "eslint .",
-		"lint-fix": "eslint . --fix"
+		"lint-fix": "eslint . --fix",
+		"test": "npm run lint"
 	},
 	"repository": {
 		"type": "git",
