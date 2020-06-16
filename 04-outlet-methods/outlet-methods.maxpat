@@ -247,7 +247,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 10.0, 10.0, 492.0, 64.0 ],
-					"text" : "03 - Outlet Methods"
+					"text" : "04 - Outlet Methods"
 				}
 
 			}
